@@ -9,4 +9,5 @@
 <ul>
   <li>VS Code</li>
   <li>Git & GitHub</li>
+  <li>Git Bash</li>
 </ul>
