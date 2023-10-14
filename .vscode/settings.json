@@ -3,6 +3,7 @@
         "*.js": "json",
         "ostream": "cpp",
         "iostream": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "cmath": "cpp"
     }
 }
