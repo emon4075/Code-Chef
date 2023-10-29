@@ -8,7 +8,7 @@ int main()
     {
         cin >> N >> K >> X >> Y;
         int blue = N - K;
-        cout << (K * X) + (blue * Y) << endl;
+        cout << (K * X) + (blue * min(X, Y)) << endl;
     }
 
     return 0;
